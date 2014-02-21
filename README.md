@@ -2,6 +2,8 @@
 
 > A gesture action to show the available gestures
 
+<img src="https://i.cloudup.com/GdPwWXlxIP.gif" alt="Help example">
+
 ## How-to
 [TODO]
 
